@@ -1,7 +1,6 @@
 import { useState } from 'react'
 import React from 'react'
 import './App.css'
-import { Header } from './components/Header'
 import { HashRouter , Route ,Routes } from 'react-router-dom'
 import { Todo } from './components/Todo'
 
